@@ -1,4 +1,7 @@
 # animateJS
+
+projet e-learning Dokeos
+
 script pour animation background + systeme QCM/QIZ
 
 ```js
